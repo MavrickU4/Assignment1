@@ -236,7 +236,11 @@ background-size:cover;
     width: 100%; /* or any custom size */
     height: 100%; 
 	object-fit: contain;
-
+}
+.ImgAbout{
+    width: 100%; /* or any custom size */
+    height: 100%; 
+	object-fit: co;
 }
 
 contactForm{
